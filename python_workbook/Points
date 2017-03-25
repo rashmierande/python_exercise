@@ -99,3 +99,45 @@ Excercise                 Point
  49                         2
 
  50                         2
+
+ 51                         1
+
+ 52                         2
+
+ 53                         2
+
+ 54                         2
+
+ 55                         3
+
+ 56                         3
+
+ 57                         3
+
+ 58                         4  (add to json) json:-loads,dumps; file-seek,truncate (review it)
+
+ 59                         2  (enumerator) enumerate, review it
+
+ 60                         1
+
+ 61
+
+ 62
+
+ 63
+
+ 64
+
+ 65
+
+ 66
+
+ 67
+
+ 68
+
+ 69
+
+ 70
+
+
