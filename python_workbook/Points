@@ -180,23 +180,25 @@ Excercise                 Point
 
  90                         4 database_to_csv
 
- 91
+ 91                         4 csv_to_db
 
- 92
+ 92                         2 file_cnter (glob,glob1)
 
- 93
+ 93                         2 file_cnter_recur (glob,recursive) dirs inside dirs
 
- 94
+ 94                         3
 
- 95
+ 95                         3
 
- 96
+ 96                         3 file_writer
 
- 97
+ 97                         4  file_writer_advanced
 
- 98
+ 98                         4
 
- 100
+ 99                         0  flask
+
+ 100                        0
 
 
 
