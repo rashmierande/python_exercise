@@ -140,25 +140,64 @@ Excercise                 Point
 
  70                         3
 
- 71
+ 71                         3 (letter_extractor)
 
- 72
+ 72                         3 (webbrowser)
 
- 73
+ 73                         3 (pandas) url-data-manipulation
 
- 74
+ 74                         3 (pandas) file_concatenator
 
- 75
+ 75                         3 (graph) data_plotter
 
- 76
+ 76                         2 datetime_gen
 
- 77
+ 77                         2 birth_cal
 
- 78
+ 78                         2 password_generator (random module,sample method)
 
- 79
+ 79                         3 password_checker
 
- 80
+ 80                         4 password_checker_advance
+
+ 81                         4
+
+ 82                         3
+
+ 83                         2
+
+ 84                         3
+
+ 85                         3  data_cleaner
+
+ 86                         4  data_cleaner
+
+ 87                         2
+
+ 88                         4 data_filter
+
+ 89                         4 database_filter (sqlite3)
+
+ 90                         4 database_to_csv
+
+ 91
+
+ 92
+
+ 93
+
+ 94
+
+ 95
+
+ 96
+
+ 97
+
+ 98
+
+ 100
+
 
 
 
