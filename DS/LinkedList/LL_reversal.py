@@ -69,7 +69,8 @@ b.next = c
 c.next = d
 
 print (a.next.value , " -> ",b.next.value , " -> ", c.next.value )
-
+print (a, a.next.value)
 #reverse_iter(a)
 reverse_recursive(a)
 print (d.next.value , ' -> ',c.next.value , ' -> ',b.next.value )
+print(a,a.next.value)

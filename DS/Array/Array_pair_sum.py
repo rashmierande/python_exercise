@@ -16,8 +16,10 @@ def pair_sum(arr,sum):
             #print ("target ",i)
         else:
             output.add((min(i,target),max(i,target)))
-            #print(min(i,target),max(i,target))
+            print(min(i,target),max(i,target))
+
     #print('\n'.join(map(str,list(output)))  )
+    print ("output is " ,output)
     return len(output)
 
 
